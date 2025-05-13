@@ -61,7 +61,7 @@ This tool provides an automated framework for testing API access control vulnera
 
 ## Usage
 
-1.  **Launch the GUI:** Run `python your_script_name.py`.
+1.  **Launch the GUI:** Run `oBAC.py`.
 2.  **Configure Authentication:** In the "Authentication" section, select the method used by the target API (Bearer Token, Basic Auth, or Session Cookies) and provide the necessary credentials.
 3.  **Configure MFA (if applicable):** In the "MFA Configuration" section, select the MFA type (Email, SMS, or TOTP) and provide the required connection details or secret key.
 4.  **Define Test Cases:** Use the "Test Cases (JSON format)" area to define your test scenarios.
